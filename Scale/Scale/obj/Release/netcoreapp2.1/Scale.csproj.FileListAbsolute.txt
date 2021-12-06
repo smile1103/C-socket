@@ -1,0 +1,11 @@
+D:\Scale\Scale\bin\Release\netcoreapp2.1\Scale.deps.json
+D:\Scale\Scale\bin\Release\netcoreapp2.1\Scale.runtimeconfig.json
+D:\Scale\Scale\bin\Release\netcoreapp2.1\Scale.runtimeconfig.dev.json
+D:\Scale\Scale\bin\Release\netcoreapp2.1\Scale.dll
+D:\Scale\Scale\bin\Release\netcoreapp2.1\Scale.pdb
+D:\Scale\Scale\obj\Release\netcoreapp2.1\Scale.csproj.CoreCompileInputs.cache
+D:\Scale\Scale\obj\Release\netcoreapp2.1\Scale.AssemblyInfoInputs.cache
+D:\Scale\Scale\obj\Release\netcoreapp2.1\Scale.AssemblyInfo.cs
+D:\Scale\Scale\obj\Release\netcoreapp2.1\Scale.dll
+D:\Scale\Scale\obj\Release\netcoreapp2.1\Scale.pdb
+D:\Scale\Scale\obj\Release\netcoreapp2.1\Scale.csprojAssemblyReference.cache
